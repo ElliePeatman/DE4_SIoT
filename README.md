@@ -1,6 +1,6 @@
 # DE4_SIoT
-Fourth Year Project for Sensing and IoT Module
-First Step: Download the app and data_collection folders to a local directory on your Raspberry Pi/computer.
+Fourth Year Project for Sensing and IoT Module.
+Download the app and data_collection folders to a local directory on your Raspberry Pi/computer. Make sure you have python3 and pip3 installed on your machine, and install libraries for Dark Sky API, gspread for Google Sheets and Dash. All linked below where documentation and instructions for library install can be found.
 
 # Setting up Data Collection 
 Use a microcontroller such as a Raspberry Pi to execute the data_collect.py file from your terminal. 
